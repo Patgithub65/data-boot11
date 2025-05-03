@@ -1,4 +1,4 @@
-# data-bootcanp11
+# data-bootcamp11
 My Data science and analytics projects
 
 ## My personal projects
